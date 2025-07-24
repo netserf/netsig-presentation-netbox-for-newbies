@@ -8,7 +8,7 @@ Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo w
 
 - `slides/`: [PDF presentation](slides/NetBox-The-Network-Source-of-Truth.pdf) (coming soon!)
 - `data/`: Data imports for NetBox demo
-- `scripts/`: Scripts and configurations used in the NetBox demo (coming soon!)
+- `scripts/`: Scripts and configurations used in the NetBox demo
 
 ## 👥 Who is this for?
 

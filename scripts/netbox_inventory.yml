@@ -1,0 +1,4 @@
+# netbox_inventory.yml
+plugin: netbox.netbox.nb_inventory
+api_endpoint: http://localhost:8000
+token: [your_api_token_here]
