@@ -1,0 +1,5 @@
+role,manufacturer,device_type,status,site,name
+Router,Cisco,ISR 4331,planned,ca-victoria-1,vic-router-01
+Switch,Cisco,Catalyst C1200,planned,ca-victoria-1,vic-switch-01
+Firewall,Fortinet,FortiGate 7121F,planne,ca-victoria-1,vic-firewall-01
+Server,Oracle,Oracle Virtual Machine,active,ca-toronto-1,fatlab

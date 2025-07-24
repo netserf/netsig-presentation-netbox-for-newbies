@@ -4,6 +4,12 @@ Welcome to *NetBox for Newbies*! This repository contains a presentation and dem
 
 Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo will help you get your bearings and maybe even have a bit of fun along the way.
 
+## 📦 Contents
+
+- `slides/`: [PDF presentation](slides/NetBox-The-Network-Source-of-Truth.pdf) (coming soon!)
+- `data/`: Data imports for NetBox demo
+- `scripts/`: Scripts and configurations used in the NetBox demo (coming soon!)
+
 ## 👥 Who is this for?
 
 - Network operators who want a better way to manage sites, devices, IPs, etc.
