@@ -1,8 +1,11 @@
 # 🌐 NetSIG Presentation - 📦 NetBox for Newbies
 
-Welcome to *NetBox for Newbies*! This repository contains a presentation and demo designed to introduce you to the world of **NetBox**, the open-source infrastructure resource modeling (IRM) tool.
+Welcome to *NetBox for Newbies*! This repository contains a presentation and
+demo designed to introduce you to the world of **NetBox**, the open-source
+infrastructure resource modeling (IRM) tool.
 
-Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo will help you get your bearings and maybe even have a bit of fun along the way.
+Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo
+will help you get your bearings and maybe even have a bit of fun along the way.
 
 ## 📦 Contents
 
@@ -84,11 +87,14 @@ These presentations are hosted in person and on-line.
 
 ## 🧠 Acknowledgements
 
-- [NetBox Project](https://github.com/netbox-community/netbox) – the real stars of the show 🌟
-- [NetBox Docker](https://github.com/netbox-community/netbox-docker) – for an easy demo site
+- [NetBox Project](https://github.com/netbox-community/netbox) – the real stars
+  of the show 🌟
+- [NetBox Docker](https://github.com/netbox-community/netbox-docker) – for an
+  easy demo site
 
 ## 🪪 License
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This content is licensed under the Creative Commons Attribution 4.0 International License.
+This content is licensed under the Creative Commons Attribution 4.0
+International License.
