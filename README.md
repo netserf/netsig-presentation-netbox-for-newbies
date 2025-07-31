@@ -1,8 +1,11 @@
 # 🌐 NetSIG Presentation - 📦 NetBox for Newbies
 
-Welcome to *NetBox for Newbies*! This repository contains a presentation and demo designed to introduce you to the world of **NetBox**, the open-source infrastructure resource modeling (IRM) tool.
+Welcome to *NetBox for Newbies*! This repository contains a presentation and
+demo designed to introduce you to the world of **NetBox**, the open-source
+infrastructure resource modeling (IRM) tool.
 
-Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo will help you get your bearings and maybe even have a bit of fun along the way.
+Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo
+will help you get your bearings and maybe even have a bit of fun along the way.
 
 ## 📦 Contents
 
@@ -33,8 +36,8 @@ Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo w
 
 ## 🎤 Presentation
 
-- The slide deck is available here:  
-📽️ `netbox-for-newbies.pdf` (coming soon!)
+- The slide deck is available here:\
+  📽️ `netbox-for-newbies.pdf` (coming soon!)
 
 ## 🛜 Who is NetSIG?
 
@@ -57,38 +60,41 @@ These presentations are hosted in person and on-line.
 
 1. Clone this repo:
 
-    ```bash
-    git clone https://github.com/yourusername/netbox-for-newbies.git
-    cd netbox-for-newbies
-    ```
+   ```bash
+   git clone https://github.com/yourusername/netbox-for-newbies.git
+   cd netbox-for-newbies
+   ```
 
-2. Launch NetBox with Docker:
+1. Launch NetBox with Docker:
 
-    ```bash
-    docker compose up -d
-    ```
+   ```bash
+   docker compose up -d
+   ```
 
-3. Open your browser to [http://localhost:8000](http://localhost:8000)
+1. Open your browser to [http://localhost:8000](http://localhost:8000)
 
-4. Login with:
+1. Login with:
 
-    - **Username:** `admin`
-    - **Password:** `admin`
+   - **Username:** `admin`
+   - **Password:** `admin`
 
-5. Start exploring! 🎈
+1. Start exploring! 🎈
 
 ## 🙏 Feedback
 
-- Spotted a typo? Got a better way to explain a concept?  
+- Spotted a typo? Got a better way to explain a concept?
 - I’d love your feedback! Open an issue or pull request 🛠️
 
 ## 🧠 Acknowledgements
 
-- [NetBox Project](https://github.com/netbox-community/netbox) – the real stars of the show 🌟
-- [NetBox Docker](https://github.com/netbox-community/netbox-docker) – for an easy demo site
+- [NetBox Project](https://github.com/netbox-community/netbox) – the real stars
+  of the show 🌟
+- [NetBox Docker](https://github.com/netbox-community/netbox-docker) – for an
+  easy demo site
 
 ## 🪪 License
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This content is licensed under the Creative Commons Attribution 4.0 International License.
+This content is licensed under the Creative Commons Attribution 4.0
+International License.
