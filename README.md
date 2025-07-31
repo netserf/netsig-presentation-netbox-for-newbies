@@ -33,8 +33,8 @@ Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo w
 
 ## 🎤 Presentation
 
-- The slide deck is available here:  
-📽️ `netbox-for-newbies.pdf` (coming soon!)
+- The slide deck is available here:\
+  📽️ `netbox-for-newbies.pdf` (coming soon!)
 
 ## 🛜 Who is NetSIG?
 
@@ -57,29 +57,29 @@ These presentations are hosted in person and on-line.
 
 1. Clone this repo:
 
-    ```bash
-    git clone https://github.com/yourusername/netbox-for-newbies.git
-    cd netbox-for-newbies
-    ```
+   ```bash
+   git clone https://github.com/yourusername/netbox-for-newbies.git
+   cd netbox-for-newbies
+   ```
 
-2. Launch NetBox with Docker:
+1. Launch NetBox with Docker:
 
-    ```bash
-    docker compose up -d
-    ```
+   ```bash
+   docker compose up -d
+   ```
 
-3. Open your browser to [http://localhost:8000](http://localhost:8000)
+1. Open your browser to [http://localhost:8000](http://localhost:8000)
 
-4. Login with:
+1. Login with:
 
-    - **Username:** `admin`
-    - **Password:** `admin`
+   - **Username:** `admin`
+   - **Password:** `admin`
 
-5. Start exploring! 🎈
+1. Start exploring! 🎈
 
 ## 🙏 Feedback
 
-- Spotted a typo? Got a better way to explain a concept?  
+- Spotted a typo? Got a better way to explain a concept?
 - I’d love your feedback! Open an issue or pull request 🛠️
 
 ## 🧠 Acknowledgements

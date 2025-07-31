@@ -1,0 +1,13 @@
+repos:
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.3.0  # or latest stable version
+    hooks:
+      - id: flake8
+
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.22  # or latest
+    hooks:
+      - id: mdformat
+        args: ["--check"]  # lint-style dry-run
+        files: \.md$
+
