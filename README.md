@@ -7,6 +7,8 @@ infrastructure resource modeling (IRM) tool.
 Whether you're a network engineer, sysadmin, or just NetBox-curious, this repo
 will help you get your bearings and maybe even have a bit of fun along the way.
 
+[![Actions Status](https://github.com/netserf/netsig-presentation-netbox-for-newbies/workflows/Lint/badge.svg)](https://github.com/netserf/netsig-presentation-netbox-for-newbies/actions)
+
 ## 📦 Contents
 
 - `slides/`: [PDF presentation](slides/netsig-netbox-for-newbies.pdf)
