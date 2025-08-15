@@ -6,6 +6,7 @@
 
 from extras.scripts import Script
 
+
 class TestScript(Script):
     class Meta:
         name = "Test"
@@ -13,4 +14,3 @@ class TestScript(Script):
 
     def run(self, data, commit):
         self.log_info("Test ran successfully")
-
