@@ -39,7 +39,7 @@ will help you get your bearings and maybe even have a bit of fun along the way.
 ## 🎤 Presentation
 
 - The slide deck is available here:\
-  📽️ `netbox-for-newbies.pdf` (coming soon!)
+  📽️ [netbox-for-newbies.pdf](slides/netsig-netbox-for-newbies.pdf) (coming soon!)
 
 ## 🛜 Who is NetSIG?
 
@@ -52,10 +52,6 @@ These presentations are hosted in person and on-line.
 - [NetSIG site](https://vicpimakers.ca/netsig/)
 - [Victoria PiMakers site](https://vicpimakers.ca/)
 
-## 📋 Where can I find the cheatsheet for this presentation?
-
-- [NetBox for Newbies Cheatsheet](cheatsheet.txt) (coming soon!)
-
 ## 🛠️ Demo
 
 - A simple demo environment to try out NetBox yourself!
@@ -63,8 +59,8 @@ These presentations are hosted in person and on-line.
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/netbox-for-newbies.git
-   cd netbox-for-newbies
+   git clone https://github.com/netbox-community/netbox-docker.git
+   cd netbox-docker
    ```
 
 1. Launch NetBox with Docker:
