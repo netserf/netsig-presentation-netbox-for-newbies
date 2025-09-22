@@ -69,12 +69,19 @@ These presentations are hosted in person and on-line.
    docker compose up -d
    ```
 
+1. Configure the admin password:
+
+    ```bash
+    docker exec -it netboxdemo-netbox-1 /opt/netbox/netbox/manage.py \
+        changepassword admin
+    ```
+
 1. Open your browser to [http://localhost:8000](http://localhost:8000)
 
 1. Login with:
 
    - **Username:** `admin`
-   - **Password:** `admin`
+   - **Password:** `(newly configured password)`
 
 1. Start exploring! 🎈
 
