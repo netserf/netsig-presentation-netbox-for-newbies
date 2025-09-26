@@ -39,7 +39,7 @@ will help you get your bearings and maybe even have a bit of fun along the way.
 ## 🎤 Presentation
 
 - The slide deck is available here:\
-  📽️ [netbox-for-newbies.pdf](slides/netsig-netbox-for-newbies.pdf) (coming soon!)
+  📽️ [netbox-for-newbies.pdf](slides/netsig-netbox-for-newbies.pdf)
 
 ## 🛜 Who is NetSIG?
 
